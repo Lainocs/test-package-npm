@@ -1,5 +1,11 @@
 # musiquejs
 
+## 0.1.1
+
+### Patch Changes
+
+- 25a53eb: bc im dumb
+
 ## 0.1.0
 
 ### Minor Changes
