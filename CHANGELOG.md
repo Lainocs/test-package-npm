@@ -1,5 +1,11 @@
 # musiquejs
 
+## 1.0.0
+
+### Major Changes
+
+- hi
+
 ## 0.1.5
 
 ### Patch Changes
