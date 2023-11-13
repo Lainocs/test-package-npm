@@ -16,6 +16,6 @@ jobs:
         with:
           node-version: 20.x
           cache: "pnpm"
-      - run: echo "settings.autoInstallPeers = true" >> .npmrc
+      - run: echo "settings.autoInstallPeers = false" >> .npmrc
       - run: pnpm install --frozen-lockfile
       - run: pnpm run lint && pnpm run build
