@@ -1,5 +1,11 @@
 # musiquejs
 
+## 0.1.3
+
+### Patch Changes
+
+- maybe ?
+
 ## 0.1.2
 
 ### Patch Changes
