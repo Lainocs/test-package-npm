@@ -1,3 +1,5 @@
 const sayHello = () => console.log(`Welcome to Musique.js !`)
 
-export { sayHello }
+const sayHelloInFrench = () => console.log(`Bienvenue sur Musique.js !`)
+
+export { sayHello, sayHelloInFrench }
