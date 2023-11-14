@@ -14,4 +14,8 @@ const sayHelloInGerman = () => {
   return 'Bonjour de Musique.js en allemand !'
 }
 
-export { sayHello, sayHelloInFrench, sayHelloInSpanish, sayHelloInGerman }
+const sayHelloInItalian = () => {
+  return 'Bonjour de Musique.js en italien !'
+}
+
+export { sayHello, sayHelloInFrench, sayHelloInSpanish, sayHelloInGerman, sayHelloInItalian }
